@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.006" height="28" viewBox="0 0 40.006 28">
+  <g id="Group_259" data-name="Group 259" transform="translate(-1863.994 -23)">
+    <g id="Group_191" data-name="Group 191" transform="translate(12891 10982)">
+      <path id="fi__online-shopping" d="M22.542,25H17.875a1.758,1.758,0,0,0-1.667,2l2.667,13.333a1.623,1.623,0,0,0,1.667,1.333H37.875a1.623,1.623,0,0,0,1.667-1.333L42.209,27a1.669,1.669,0,0,0-1.667-2H35.875M22.542,25H35.875m0,0" transform="translate(-11041.688 -10974.167)" fill="#222e46" stroke="#222e46" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="fi__online-shopping-2" data-name="fi__online-shopping" d="M23.638,23.333H36.972m-14.205,0L26.472,16a1.6,1.6,0,0,1,1.5-1h4.333a1.458,1.458,0,0,1,1.5,1L37.9,23.333" transform="translate(-11042.434 -10972.5)" fill="none" stroke="#222e46" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(1886 25)" fill="#fac112" stroke="#fff" stroke-width="2">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8" fill="none"/>
+    </g>
+    <text id="_2" data-name="2" transform="translate(1892 38)" fill="#fff" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>
